@@ -418,6 +418,6 @@ ACTION_IF GAME_IS ~eet~ BEGIN
 			dv = "SUFINCH"
 			override_BG1 = "SUFINCH"
 			traFile = EVAL "EET/lang/%lng%/compatibility.tra"
-			string = "@5000002"
+			string = "Bring me Finch"
 	END
 END
